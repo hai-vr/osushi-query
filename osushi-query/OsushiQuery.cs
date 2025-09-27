@@ -1,7 +1,7 @@
 ﻿using System.Net;
 using System.Net.Sockets;
 using System.Text;
-using Makaretu.Dns;
+using MeaMod.DNS.Multicast;
 
 namespace HVR.Osushi
 {
